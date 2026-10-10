@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.skill
+*.zip
+/node_modules/
+/dist/
+/out/
+*.log
+.DS_Store
+Thumbs.db
+.git/
